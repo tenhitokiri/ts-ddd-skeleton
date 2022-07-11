@@ -1,0 +1,23 @@
+{
+  "name": "ddd-skeleton",
+  "version": "1.0.0",
+  "description": "DDD skeleton for TS development",
+  "main": "index.js",
+  "author": "Christian Mejia",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/morgan": "^1.9.3",
+    "@types/node": "^18.0.3",
+    "nodemon": "^2.0.19",
+    "typescript": "^4.7.4"
+  }
+}
